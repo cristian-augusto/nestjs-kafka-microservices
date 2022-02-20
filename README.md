@@ -1,6 +1,6 @@
 # nestjs-kafka-microservices :sunglasses:
 
-This is a simple project using NestJS Framework + Kafka to create microservices architecture, base on [Michael Guay' Video](https://www.youtube.com/channel/UChNA2S9dtoEMAVGPddbDIJg).
+This is a very simple project using NestJS Framework + Kafka to create microservices architecture, based on [Michael Guay' Video](https://www.youtube.com/channel/UChNA2S9dtoEMAVGPddbDIJg).
 
 ###  How to setup :heavy_check_mark:	
 
